@@ -21,6 +21,15 @@
         <button type="button" class="btn btn-dim-gray">Dim Gray</button>
       </div>
     </div>
+    <h1>Additional Bootstrap Colors</h1>
+    <div class="row">
+      <div class="col">
+        <button type="button" class="btn btn-purple-100">Purple-100</button>
+        <button type="button" class="btn btn-blue-200">Blue-200</button>
+        <button type="button" class="btn btn-pink">Pink</button>
+        <button type="button" class="btn btn-teal-800">Teal-800</button>
+      </div>
+    </div>    
   </div>
 </template>
 
