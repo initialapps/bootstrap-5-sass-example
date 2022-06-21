@@ -1,6 +1,8 @@
 # bootstrap-5-sass-example
 
-This template should help get you started developing with Vue 3 in Vite.
+An app to test out bootstrap 5 sass customization.
+This template should help get you started developing with Bootstrap 5 on Vue 3 in Vite.
+See the full instructions [here] (https://www.initialapps.com/customizing-bootstrap-5-with-sass/) 
 
 ## Recommended IDE Setup
 
